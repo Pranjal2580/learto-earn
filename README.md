@@ -1,1 +1,1 @@
-# learto-earn
+# learntoearn
